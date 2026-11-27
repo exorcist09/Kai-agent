@@ -1,5 +1,5 @@
 # KAI - AI Agent 
-KAI is the AI agent service for **Kairo**, a visual workflow automation and job scheduling platform. It is built as a separate Python microservice to provide AI-powered workflow assistance and intelligent automation.
+KAI is the AI agent. It is built as a separate Python microservice to provide AI-powered workflow assistance and intelligent automation.
 
 ## Tech Stack
 
